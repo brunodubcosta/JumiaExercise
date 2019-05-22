@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  apache:
+    image: 'php:7.2-apache'
+    container_name: bruno-costa-exercise
+    restart: always
+    ports:
+      - '8100:80'
+    volumes:
+      - ./jumia-exercise.conf:/etc/apache2/sites-available/000-default.conf
+      - ./app/:/var/www/html/jumia-exercise/
