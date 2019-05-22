@@ -7,8 +7,8 @@ This project is a Single Page Application that lists phone numbers from a sample
 composer install
 docker-compose up
 ```
-
-
+After running those comands you now can open the browser and go to :
+http://localhost:8100/
 
 ## Unit-Testing
 
