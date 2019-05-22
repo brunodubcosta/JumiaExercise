@@ -4,8 +4,8 @@ This project is a Single Page Application that lists phone numbers from a sample
 ## Installation
 
 ```bash
-Composer install
-Docker-compose up
+composer install
+docker-compose up
 ```
 
 
