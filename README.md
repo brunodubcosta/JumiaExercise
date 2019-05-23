@@ -1,6 +1,7 @@
 # JumiaExercise
 This project is a Single Page Application that lists phone numbers from a sample database and filters by country and if it is valid or not.
-[![Table](https://i.imgur.com/qAGLUjd.png)](https://i.imgur.com/qAGLUjd.png)
+
+ [![Table](https://i.imgur.com/qAGLUjd.png)](https://i.imgur.com/qAGLUjd.png)
 
 ## Installation
 
