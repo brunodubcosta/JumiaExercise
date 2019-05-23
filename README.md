@@ -25,4 +25,4 @@ After running those comands you now can open the browser and go to : - http://lo
 - Php
 - Sqlite3
 - PhpUnit
-- Bootstrap
+- Bootstrap4
