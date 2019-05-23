@@ -7,8 +7,7 @@ This project is a Single Page Application that lists phone numbers from a sample
 composer install
 docker-compose up
 ```
-After running those comands you now can open the browser and go to :
-http://localhost:8100/
+After running those comands you now can open the browser and go to : - http://localhost:8100/
 
 ## Unit-Testing
 
@@ -22,3 +21,7 @@ http://localhost:8100/
 ```bash
 ./app/vendor/bin/phpunit --bootstrap app/vendor/autoload.php app/src/tests/factories/CustomerFactoryTest
 ```
+## Used Technologies
+-Php
+-Sqlite3
+-PhpUnit
