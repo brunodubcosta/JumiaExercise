@@ -7,7 +7,7 @@ This project is a Single Page Application that lists phone numbers from a sample
 
 ```bash
 $ composer install
-$ docker-compose up
+$ docker-compose up --build
 ```
 > After running those comands you now can open the browser and go to : - http://localhost:8100/
 
