@@ -22,7 +22,7 @@ After running those comands you now can open the browser and go to : - http://lo
 ./app/vendor/bin/phpunit --bootstrap app/vendor/autoload.php app/src/tests/factories/CustomerFactoryTest
 ```
 ## Used Technologies
-- Php
+- Php 7.2
 - Sqlite3
-- PhpUnit
+- PhpUnit 7
 - Bootstrap4
